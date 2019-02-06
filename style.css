@@ -1,3 +1,27 @@
+body { 
+    background: url(./img1.jpg) repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    widows: 100%;
+  }
+
+  
+
 #divheight {
-    height: 100px;
+    height: 200px;
+}
+
+.container {
+   color: white;
+   display: flex;
+   justify-content: center;
+   height: 10rem;
+}
+
+#divheight2 {
+    height: 1rem;
 }
