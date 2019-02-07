@@ -7,6 +7,7 @@ body {
     color: white;
     font-family: 'Times New Roman', Times, serif;
     widows: 100%;
+    margin-bottom: 5rem;
   }
 
   
@@ -17,11 +18,44 @@ body {
 
 .container {
    color: white;
-   display: flex;
-   justify-content: center;
+
    height: 10rem;
 }
 
 #divheight2 {
     height: 1rem;
 }
+
+#divheight3 {
+    height: 5rem;
+}
+
+.lead {
+    font-size: 25pt;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.display-4 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    height: 5rem;
+}
+
+h1 {
+    text-align: center;
+    background-color: teal;
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+    background-color: teal;
+}
+
+.flexContainer {
+    display: flex;
+    align-items: center;
+}
+
