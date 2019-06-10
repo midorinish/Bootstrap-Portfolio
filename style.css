@@ -83,3 +83,7 @@ h3 {
 #divheightExtreme {
   height: 10rem;
 }
+
+.card-img {
+  height: 20rem;
+}
